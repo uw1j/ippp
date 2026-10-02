@@ -1,5 +1,8 @@
-# coded by N17RO (noob hackers)
 
+#غير محلل تاخذه وتغير حقوقه 
+#ممنوع تغير حقوقه نهائياً
+#تواصل على تلغرام انطي الك
+# هذا يوزر حسابي @o_j07
 import argparse
 import requests
 import sys
